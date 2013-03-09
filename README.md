@@ -1,3 +1,6 @@
-== Nodejs Express Get Start ==
+Express 3 Underscore
+====================
 
-Source code for blog post at http://www.junwatu.com/?p=2793.
+Using underscore template with express 3.
+
+
